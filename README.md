@@ -1,7 +1,7 @@
 # Instagram Usage Modeling — RQ2
 
 Predicting daily Instagram usage time from demographic, lifestyle, and
-well-being variables. Data science capstone, [semester/year].
+well-being variables. Data science capstone, Fall 2025.
 
 ## Research question
 
